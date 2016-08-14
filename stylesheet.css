@@ -3,7 +3,7 @@
 body 	{
 	/*entremedio de los paréntesis de a continuación pueden poner la dirección 
 	de cualquier imagen de fondo de la web. Yo probé con muchas pero ninguna me convenció*/
-	background-image:url();
+	background-image:url(http://nubes.balearweb.net/get/Pajaros%20llegando%20a%20un%20remolino%20con%20fondo%20de%20nubes.jpg);
 	background-size: cover; 
 }
 /*Todos los coleres son modificables*/
@@ -13,12 +13,14 @@ h1 	{
 	color:green;
 	font-size: 50px;
 }
-p 	{
+/*H2 Quienes somos*/
+h2 	{
 	font-family: cursive;
 	color:gray;
+	font-size: 15px;
 }
-/*H2 es Aprender haciendo*/
-h2 	{
+/*Aprender haciendo*/
+p 	{
 	font-family: Courier;
 	font-size: 20px;
 	color:black;
@@ -26,7 +28,7 @@ h2 	{
 /*H3 son los nombres de cada una*/
 h3 	{
 	color:gray;
-	font-family: serif;
+	font-family: cursive;
 	font-size: 15px;
 }
 /*H4 es La práctica hace al maestro*/
