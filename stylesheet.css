@@ -1,0 +1,39 @@
+body 	{
+	background-image:url(http://www.solofondos.com/wp-content/uploads/2015/11/fondo_001.jpg);
+	background-size: cover; 
+}
+
+/*H1 es Circus Squad*/
+h1 	{
+	font-family: serif;
+	color:green;
+	font-size: 50px;
+}
+p 	{
+	font-family: cursive;
+	color:gray;
+}
+/*H2 es Aprender haciendo*/
+h2 	{
+	font-family: Courier;
+	font-size: 20px;
+	color:black;
+}
+/*H3 son los nombres de cada una*/
+h3 	{
+	color:gray;
+	font-family: serif;
+	font-size: 15px;
+}
+/*H4 es La práctica hace al maestro*/
+h4 	{
+	font-size: 15px;
+	font-family: Courier;
+}
+img 	{
+	border: 2px double black;
+}
+
+div 	{
+	display: inline;
+}
