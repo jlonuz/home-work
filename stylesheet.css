@@ -3,10 +3,9 @@
 body 	{
 	/*entremedio de los paréntesis de a continuación pueden poner la dirección 
 	de cualquier imagen de fondo de la web. Yo probé con muchas pero ninguna me convenció*/
-	
-	
-}
-/*Todos los coleres son modificables*/
+}	
+
+/*Todos los colores son modificables*/
 /*H1 es Circus Squad*/
 h1 	{
 	font-family: serif;
@@ -15,8 +14,8 @@ h1 	{
 }
 /*H2 Quienes somos*/
 
-/*Aprender haciendo*/
-p, h2	{
+/*Aprender haciendo*/ 
+h2	{
 	font-family: Arial;
 	font-size: 15px;
 	color:black;
@@ -29,7 +28,8 @@ h3 	{
 }
 /*H4 es La práctica hace al maestro*/
 p	{
-	font-size: 16px; color: orange;
+	font-size: 16px; 
+	color: orange;
 	font-family: Arial;
 }
 img 	{
