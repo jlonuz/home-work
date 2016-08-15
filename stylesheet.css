@@ -3,8 +3,8 @@
 body 	{
 	/*entremedio de los paréntesis de a continuación pueden poner la dirección 
 	de cualquier imagen de fondo de la web. Yo probé con muchas pero ninguna me convenció*/
-	background-image:url(http://nubes.balearweb.net/get/Pajaros%20llegando%20a%20un%20remolino%20con%20fondo%20de%20nubes.jpg);
-	background-size: cover; 
+	
+	
 }
 /*Todos los coleres son modificables*/
 /*H1 es Circus Squad*/
@@ -37,7 +37,7 @@ h4 	{
 	font-family: Courier;
 }
 img 	{
-	border: 2px double black;
+	border: 2px double white;
 }
 
 div 	{
