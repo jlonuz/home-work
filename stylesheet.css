@@ -23,13 +23,13 @@ p, h2	{
 }
 /*H3 son los nombres de cada una*/
 h3 	{
-	color:gray;
-	font-family: Arial;
-	font-size: 12px;
+	color:orange;
+	font-family: serif;
+	font-size: 17px;
 }
 /*H4 es La práctica hace al maestro*/
-h4 	{
-	font-size: 15px; color: gray;
+p	{
+	font-size: 16px; color: orange;
 	font-family: Arial;
 }
 img 	{
