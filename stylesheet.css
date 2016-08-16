@@ -12,7 +12,14 @@ h1 	{
 	color: gray;
 	font-size: 40px;
 }
-/*H2 Quienes somos*/
+/*H2 Quienes somos
+
+h2 	{
+	font-size: 1px; color: orange;
+	font-family: Century Gothic, sans-serif;
+	color:black;
+
+}*/
 
 /*Aprender haciendo*/ 
 h2	{
@@ -25,8 +32,8 @@ h3 	{
 	color:orange;
 	font-family: serif;
 	font-size: 17px;
-}
-/*H4 es La práctica hace al maestro*/
+}/*H4 es La práctica hace al maestro*/
+
 p	{
 	font-size: 16px; 
 	color: orange;
@@ -41,3 +48,12 @@ div 	{
 }
 
 th {display: inline-block;}
+
+/* ignorenlo
+
+blockquote {
+  padding: 3px 30px;
+  border: #FF1493 1px solid;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 20px;
+}*/
