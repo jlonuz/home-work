@@ -1,8 +1,7 @@
 
-
 body 	{
-	/*entremedio de los paréntesis de a continuación pueden poner la dirección 
-	de cualquier imagen de fondo de la web. Yo probé con muchas pero ninguna me convenció*/
+	 background-image: <img src="circus2.png" ;
+background-attachment:fixed; 
 }	
 
 /*Todos los colores son modificables*/
@@ -22,10 +21,6 @@ h2 	{
 }
 
 /*Aprender haciendo*/ 
-h1 {
-
-
-}
 h2	{
 	font-family: Arial;
 	font-size: 15px;
@@ -42,43 +37,16 @@ p	{
 	font-size: 16px; 
 	color: orange;
 	font-family: Arial;
-	display: inline-block;
 }
-
-img {
+img 	{
 	border: 2px double white;
 }
 
-
-div {
+div 	{
 	display: inline;
 }
 
-
-th {display: inline-block;
-}
-
-
-#fotos img {
-	border-radius: 50%;
-}
-
-
-#fotos2 img {
-	border-radius: 50%;
-}
-
-
-.titulo{
-
-	color:orange;
-	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	font-size: 50px;
-	font-family: serif;
-
-}
+th {display: inline-block;}
 
 /* ignorenlo
 
