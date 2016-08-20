@@ -1,0 +1,90 @@
+
+
+body 	{
+	/*entremedio de los paréntesis de a continuación pueden poner la dirección 
+	de cualquier imagen de fondo de la web. Yo probé con muchas pero ninguna me convenció*/
+}	
+
+/*Todos los colores son modificables*/
+/*H1 es Circus Squad*/
+h1 	{
+	font-family: Arial;
+	color: gray;
+	font-size: 40px;
+}
+/*H2 Quienes somos
+
+h2 	{
+	font-size: 1px; color: orange;
+	font-family: Century Gothic, sans-serif;
+	color:black;
+
+}
+
+/*Aprender haciendo*/ 
+h1 {
+
+
+}
+h2	{
+	font-family: Arial;
+	font-size: 15px;
+	color:black;
+}
+/*H3 son los nombres de cada una*/
+h3 	{
+	color:orange;
+	font-family: serif;
+	font-size: 17px;
+}/*H4 es La práctica hace al maestro*/
+
+p	{
+	font-size: 16px; 
+	color: orange;
+	font-family: Arial;
+	display: inline-block;
+}
+
+img {
+	border: 2px double white;
+}
+
+
+div {
+	display: inline;
+}
+
+
+th {display: inline-block;
+}
+
+
+#fotos img {
+	border-radius: 50%;
+}
+
+
+#fotos2 img {
+	border-radius: 50%;
+}
+
+
+.titulo{
+
+	color:orange;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 50px;
+	font-family: serif;
+
+}
+
+/* ignorenlo
+
+blockquote {
+  padding: 3px 30px;
+  border: #FF1493 1px solid;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 20px;
+}*/
