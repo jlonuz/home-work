@@ -48,6 +48,10 @@ div 	{
 
 th {display: inline-block;}
 
+.circular img {
+	border-radius: 50%;
+}
+
 /* ignorenlo
 
 blockquote {
